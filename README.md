@@ -1,7 +1,7 @@
 # Xin chào 👋 Mình là Hoàng Hà
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+%2B+Next.js;Love+building+products+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Developer" />
 </p>
 
 ## 🚀 Tech stack
