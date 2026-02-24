@@ -1,4 +1,4 @@
-# Xin chào 👋 Mình là Hoàng Hà
+# Hello 👋 My name is Hoàng Hà
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Developer" />
@@ -14,6 +14,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 
-## 📫 Liên hệ
+## 📫 Contact
 - Email: hoangha0612.work@gmail.com
 - Phone: +84 929 434 529
